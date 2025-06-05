@@ -24,11 +24,3 @@ Install and use Netdata to monitor system and application performance metrics in
 
 ## Screenshot
 See the attached screenshot: C:\Users\Goli Abhinaya\OneDrive\Pictures\Screenshots
-
-
-
-### 7. How does Netdata alerting work?
-Netdata uses pre-configured alarm thresholds and can send notifications via email, Slack, webhooks, etc.
-
-### 8. What is a dashboard in this context?
-A web-based UI that displays real-time monitoring data and charts for various system metrics.
